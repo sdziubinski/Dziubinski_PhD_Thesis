@@ -1,0 +1,8 @@
+* Change number of events in elossf.cc
+
+* EventAction needs access to SteppingAction so that Populate_Sig and Dump_Stepping can
+be called at the beginnning of an event and the end.
+
+* Need a deconstructor for every class!
+
+Last Updated: 01/27/2025

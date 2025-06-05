@@ -1,0 +1,8 @@
+/Users/sean/Desktop/Work/Geant4/elossf/build/CMakeFiles/exe_eloss.dir
+/Users/sean/Desktop/Work/Geant4/elossf/build/CMakeFiles/elossf.dir
+/Users/sean/Desktop/Work/Geant4/elossf/build/CMakeFiles/edit_cache.dir
+/Users/sean/Desktop/Work/Geant4/elossf/build/CMakeFiles/rebuild_cache.dir
+/Users/sean/Desktop/Work/Geant4/elossf/build/CMakeFiles/list_install_components.dir
+/Users/sean/Desktop/Work/Geant4/elossf/build/CMakeFiles/install.dir
+/Users/sean/Desktop/Work/Geant4/elossf/build/CMakeFiles/install/local.dir
+/Users/sean/Desktop/Work/Geant4/elossf/build/CMakeFiles/install/strip.dir
